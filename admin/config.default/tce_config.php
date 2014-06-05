@@ -64,17 +64,17 @@ define ('K_ALLOWED_UPLOAD_EXTENSIONS', serialize(array('csv', 'tsv', 'xml', 'txt
 /**
  * TCExam title.
  */
-define ('K_TCEXAM_TITLE', 'TCExam');
+define ('K_TCEXAM_TITLE', 'PG Entrance Institute');
 
 /**
  * TCExam description.
  */
-define ('K_TCEXAM_DESCRIPTION', 'TCExam by Tecnick.com');
+define ('K_TCEXAM_DESCRIPTION', 'The Best PG Entrance Institute Ever');
 
 /**
  * TCExam Author.
  */
-define ('K_TCEXAM_AUTHOR', 'Nicola Asuni - Tecnick.com LTD');
+define ('K_TCEXAM_AUTHOR', 'Dr. Arnab Naha');
 
 /**
  * Reply-to meta tag.

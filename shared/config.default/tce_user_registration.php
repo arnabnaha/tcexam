@@ -52,7 +52,7 @@ define ('K_USRREG_AGREEMENT', '');
 /**
  * The following email will receive copies of verification messages.
  */
-define ('K_USRREG_ADMIN_EMAIL', '');
+define ('K_USRREG_ADMIN_EMAIL', 'nahahealthclinic@gmail.com');
 
 /**
  * Additional fields to display on registration form.
@@ -69,7 +69,7 @@ $regfields = array(
 	'user_birthdate' => 1,
 	'user_birthplace' => 1,
 	'user_ssn' => 1,
-	'user_groups' => 1,
+	'user_groups' => 0,
 	'user_agreement' => 2
 );
 

@@ -43,16 +43,16 @@ $emailcfg['Encoding'] = '8bit';
 $emailcfg['AttachmentsEncoding'] = 'base64';
 
 // Sets the default Administrator email. The join requests and confirmations will be sent to this address.
-$emailcfg['AdminEmail'] = '';
+$emailcfg['AdminEmail'] = 'nahahealthclinic@gmail.com';
 
 // Sets the From email address for the message. Default value is 'root@localhost'.
-$emailcfg['From'] = '';
+$emailcfg['From'] = 'nahahealthclinic@gmail.com';
 
 // Sets the From name of the message. Default value is 'Root User'.
-$emailcfg['FromName'] = 'TCExam';
+$emailcfg['FromName'] = 'PG Entrance Institute';
 
 // Sets the Sender email of the message. If not empty, will be sent via -f to sendmail * or as 'MAIL FROM' in smtp mode. Default value is ''.
-$emailcfg['Sender'] = '';
+$emailcfg['Sender'] = 'PG Entrance Institute';
 
 // Sets 'Reply-To' address.
 $emailcfg['Reply'] = '';
@@ -103,10 +103,10 @@ $emailcfg['SMTPAuth'] = true;
 $emailcfg['SMTPSecure'] = 'ssl';
 
 // Sets SMTP username. Default value is ''.
-$emailcfg['Username'] = '';
+$emailcfg['Username'] = 'nahahealthclinic@gmail.com';
 
 // Sets SMTP password. Default value is ''.
-$emailcfg['Password'] = '';
+$emailcfg['Password'] = 'summerof69***';
 
 // Sets the SMTP server timeout in seconds.
 $emailcfg['Timeout'] = 10;

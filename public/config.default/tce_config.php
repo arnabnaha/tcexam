@@ -42,17 +42,17 @@ require_once('../../shared/config/tce_config.php');
 /**
  * Default site name.
  */
-define ('K_SITE_TITLE', 'TCExam');
+define ('K_SITE_TITLE', 'PG Entrance Institute');
 
 /**
  * Default site description.
  */
-define ('K_SITE_DESCRIPTION', 'TCExam by Tecnick.com');
+define ('K_SITE_DESCRIPTION', 'The Best PG Entrance Institute Ever');
 
 /**
  * Default site author.
  */
-define ('K_SITE_AUTHOR', 'Nicola Asuni - Tecnick.com LTD');
+define ('K_SITE_AUTHOR', 'Dr. Arnab Naha');
 
 /**
  * Default html reply-to meta tag.
